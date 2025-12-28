@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+venv/
+.venv/
+env/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
